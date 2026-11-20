@@ -103,7 +103,7 @@ Describe the steps performed in a UML use case.
 # DIAGRAM
 
 
-<img width="364" height="282" alt="Screenshot 2026-10-23 143404" src="https://github.com/user-attachments/assets/1d0570ff-eab1-4b2e-ad7a-57e95d1d9737" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b3451ee-936b-4a5a-bc9f-c15993a23458" />
 
 
 # SEQUENCE DIAGRAM
@@ -125,7 +125,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 # DIAGRAM
 
-<img width="374" height="299" alt="Screenshot 2026-11-20 101230" src="https://github.com/user-attachments/assets/9b0e2024-71f8-4acf-b173-672586ab1e3d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11bb3ffd-e764-4520-b171-d57d8136d9b2" />
 
 
 # RESULT
