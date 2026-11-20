@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225100052
+# Name: Supriya V
+# Date: 20/11/2026
 
 
 # AIM:
@@ -20,7 +20,7 @@ To develop the Railway Reservation System using Star UML.
 5.The system should allow users to easily search trains, reserve or cancel tickets, view PNR status, and receive confirmation through SMS/email while ensuring secure payment processing.
 
 
-UML DIAGRAMS
+# UML DIAGRAMS
 
 # USE CASE DIAGRAM
 
@@ -39,10 +39,9 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+# DIAGRAM
 
-
-
-
+<img width="376" height="291" alt="Screenshot 2026-10-21 133952" src="https://github.com/user-attachments/assets/bdf5997f-3007-4d83-84d5-d6d26fdd560d" />
 
 
 # CLASS DIAGRAM
@@ -59,6 +58,9 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+# DIAGRAM
+
+<img width="367" height="282" alt="Screenshot 2026-10-28 143901" src="https://github.com/user-attachments/assets/0f5dcdaa-a40a-4fc1-b935-a2c7d200ddac" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,7 +69,9 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+# DIAGRAM
 
+<img width="1901" height="1018" alt="image" src="https://github.com/user-attachments/assets/ac7f308d-eba2-4192-a235-3ebbc5f94ba6" />
 
 
 # PACKAGE DIAGRAM:
@@ -78,11 +82,10 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+# DIAGRAM
 
 
-
-
-
+<img width="479" height="325" alt="Screenshot 2026-11-20 111340" src="https://github.com/user-attachments/assets/d7ddcd31-3a22-42cc-8b99-71b938c47bb1" />
 
 
 # ACTIVITY DIAGRAM:
@@ -97,8 +100,10 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+# DIAGRAM
 
 
+<img width="364" height="282" alt="Screenshot 2026-10-23 143404" src="https://github.com/user-attachments/assets/1d0570ff-eab1-4b2e-ad7a-57e95d1d9737" />
 
 
 # SEQUENCE DIAGRAM
@@ -118,9 +123,9 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+# DIAGRAM
 
-
-
+<img width="374" height="299" alt="Screenshot 2026-11-20 101230" src="https://github.com/user-attachments/assets/9b0e2024-71f8-4acf-b173-672586ab1e3d" />
 
 
 # RESULT
